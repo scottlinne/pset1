@@ -1,0 +1,3 @@
+
+
+check50 2014.fall.pset1.hello hello.c
